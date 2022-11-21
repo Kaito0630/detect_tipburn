@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>19days (6)02.jpg</filename>
+	<path>C:\Users\admin\PycharmProjects\ogasahara_test\dataset_new\valid\images\19days (6)02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>454</width>
+		<height>605</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tipburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>551</ymin>
+			<xmax>132</xmax>
+			<ymax>565</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tipburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>474</ymin>
+			<xmax>101</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tipburn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>247</ymin>
+			<xmax>340</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>
